@@ -15,7 +15,7 @@ on:
 env:
   imageRepository: 'content-web'
   resourceGroupName: 'fabmedical-495289'
-  clusterName: 'fabmedical-495289]'
+  clusterName: 'fabmedical-495289'
   containerRegistryName: 'acr495289'
   containerRegistry: 'acr495289.azurecr.io'
   dockerfilePath: './content-web'
